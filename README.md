@@ -1,2 +1,2 @@
 Authors:
-Samuel Kaseff and Sean King
+Samuel Kaseff and Sean King (for both projects)
